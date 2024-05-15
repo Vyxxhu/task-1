@@ -15,6 +15,4 @@ Fahrenheit and Kelvin, and present
 the converted values as outputs
 
 
-![Screenshot 2024-05-15 230115](https://github.com/Vyxxhu/task-1/assets/149455773/4a4ba8b9-d405-4378-bb1d-4f99fb866bdb)
-
-![Screenshot 2024-05-15 225635](https://github.com/Vyxxhu/task-1/assets/149455773/b1ffcf2d-d559-49e3-97ff-05a83ac0a299)
+![Screenshot 2024-05-15 231057](https://github.com/Vyxxhu/task-1/assets/149455773/7662545f-8b14-40e1-8baa-1aa3632dba28)
