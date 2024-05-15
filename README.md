@@ -20,3 +20,6 @@ OUTPUT:
 ![Screenshot 2024-05-15 231057](https://github.com/Vyxxhu/task-1/assets/149455773/7662545f-8b14-40e1-8baa-1aa3632dba28)
 
 ![Screenshot 2024-05-15 231337](https://github.com/Vyxxhu/task-1/assets/149455773/88dc1697-687e-469d-97ee-33aa1fe614d4)
+
+![Screenshot 2024-05-15 231400](https://github.com/Vyxxhu/task-1/assets/149455773/d98fdcc6-2945-494d-b486-1b16968f6482)
+
